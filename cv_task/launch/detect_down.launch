@@ -1,0 +1,5 @@
+<launch>
+    <node name="cv_task" pkg="cv_task" type="detect_down.py" output="screen" >
+    
+    </node>
+</launch>

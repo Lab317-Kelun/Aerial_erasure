@@ -1,0 +1,3 @@
+int8 cv_control_flag
+
+int8 postion_flag

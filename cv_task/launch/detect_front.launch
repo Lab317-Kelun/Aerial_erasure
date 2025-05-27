@@ -1,0 +1,4 @@
+<launch>
+    <node name="cv_task" pkg="cv_task" type="detect_front.py" output="screen" >
+    </node>
+</launch>
